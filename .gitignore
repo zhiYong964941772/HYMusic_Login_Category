@@ -1,0 +1,7 @@
+HYMusic_Login_Category.xcodeproj/xcuserdata/
+HYMusic_Login_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+HYMusic_Login_Category.xcodeproj/project.xcworkspace/xcuserdata/
